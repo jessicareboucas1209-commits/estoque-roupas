@@ -1,4 +1,5 @@
 Controle de Estoque - Loja de Roupas
+
 Este é um script desenvolvido em Python para otimizar o gerenciamento de inventário em lojas de varejo, com foco inicial na contagem e controle de peças como calças. O objetivo é substituir controles manuais por uma solução automatizada, rápida e de fácil execução via terminal.
 
 🚀 Motivação
